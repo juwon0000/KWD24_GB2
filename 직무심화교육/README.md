@@ -69,7 +69,8 @@
 * **종합적 보안 접근**: 이메일 보안, 사용자 교육, 시스템 감사 통합적 적용 필요
 
 ## 4. References
-_**추가사항:(아래에 참고 기사/논문/블로그 주소 등 인용자료 정보 추가할 것)_
+_**추가사항:(아래에 참고 기사/논문/블로그 주소 등 인용자료 정보 추가할 것)_  
+
 [1] https://www.bbc.com/news/technology-39744007  
 [2] https://www.cnbc.com/2019/03/27/phishing-email-scam-stole-100-million-from-facebook-and-google.html  
 [3] https://www.cpomagazine.com/cyber-security/the-phishing-scam-that-took-google-and-facebook-for-100-million/  
