@@ -69,9 +69,9 @@
 * **종합적 보안 접근**: 이메일 보안, 사용자 교육, 시스템 감사 통합적 적용 필요
 
 ## 4. References
-<u><span style="color: gray;">(아래에 참고 기사/논문/블로그 주소 등 인용자료 정보 추가할 것)</span></u>
-[1] https://www.bbc.com/news/technology-39744007
-[2] https://www.cnbc.com/2019/03/27/phishing-email-scam-stole-100-million-from-facebook-and-google.html
-[3] https://www.cpomagazine.com/cyber-security/the-phishing-scam-that-took-google-and-facebook-for-100-million/
-[4] https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/google-and-facebook-fraudster-pleads-guilty-to-100-million-scam
-[5] https://www.bitdefender.com/blog/hotforsecurity/the-phishing-swindle-that-conned-100-million-out-of-google-and-facebook/?srsltid=AfmBOoqMIzKl8LKXw2782QcBdaIKzqMT-cFf9tr4379DfRl7dw1iy9yt%2F%2F
+_**추가사항:(아래에 참고 기사/논문/블로그 주소 등 인용자료 정보 추가할 것)_
+[1] https://www.bbc.com/news/technology-39744007  
+[2] https://www.cnbc.com/2019/03/27/phishing-email-scam-stole-100-million-from-facebook-and-google.html  
+[3] https://www.cpomagazine.com/cyber-security/the-phishing-scam-that-took-google-and-facebook-for-100-million/  
+[4] https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/google-and-facebook-fraudster-pleads-guilty-to-100-million-scam  
+[5] https://www.bitdefender.com/blog/hotforsecurity/the-phishing-swindle-that-conned-100-million-out-of-google-and-facebook/?srsltid=AfmBOoqMIzKl8LKXw2782QcBdaIKzqMT-cFf9tr4379DfRl7dw1iy9yt%2F%2F  
