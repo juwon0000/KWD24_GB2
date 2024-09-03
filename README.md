@@ -1,6 +1,7 @@
 # KiwonTech - 경상팀 2조 🚀
 
-![Commento Logo](https://user-images.githubusercontent.com/123456789/123456789-abcdef-1234-ghijkl-56789.png)
+![Commento Logo](https://upload.wikimedia.org/wikipedia/commons/9/9d/Comento-logo-Type-Blue.png)
+![KiwonTech Logo]([https://upload.wikimedia.org/wikipedia/commons/9/9d/Comento-logo-Type-Blue.png](https://pds.saramin.co.kr/company/logo/201902/26/pnjb23_jxeg-0_logo.jpg))
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0.0-brightgreen" alt="Version">
