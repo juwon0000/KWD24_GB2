@@ -1,5 +1,5 @@
 # 👥 비즈니스 최적화 조직 형태 구성
-![Image Description](../images/계층적구조.png)
+![Image Description](../images/계층적 구조.png)
 
 ### 1. 빠른 양적 성장(규모 확대)
 * __조직 구성: 일방향 계층적 조직__
